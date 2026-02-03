@@ -24,7 +24,7 @@
             <div class="memory-grid">
                 <div class="memory-card">
                     <div class="front">
-                        <img src="placeholder1.jpg" alt="Memory 1">
+                        <img src="https://github.com/AndiFauzan27/Private-Only/blob/1a1be2873141ac6822e90b4f93c7ff22efc6b664/First%20Date.jpeg" alt="Memory 1">
                     </div>
                     <div class="back">
                         <p>Our first date</p>
@@ -32,7 +32,7 @@
                 </div>
                 <div class="memory-card">
                     <div class="front">
-                        <img src="placeholder2.jpg" alt="Memory 2">
+                        <img src="https://github.com/AndiFauzan27/Private-Only/blob/1a1be2873141ac6822e90b4f93c7ff22efc6b664/The%20Beauty%20One.jpeg" alt="Memory 2">
                     </div>
                     <div class="back">
                         <p>The Beauty one</p>
@@ -40,7 +40,7 @@
                 </div>
                 <div class="memory-card">
                     <div class="front">
-                        <img src="placeholder3.jpg" alt="Memory 3">
+                        <img src="https://github.com/AndiFauzan27/Private-Only/blob/1a1be2873141ac6822e90b4f93c7ff22efc6b664/Our%20M7%20Date.jpeg" alt="Memory 3">
                     </div>
                     <div class="back">
                         <p>Our M7 Date</p>
