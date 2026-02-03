@@ -1,0 +1,13 @@
+document.addEventListener('DOMContentLoaded', function() {
+    const memoryCards = document.querySelectorAll('.memory-card');
+
+    memoryCards.forEach(card => {
+        card.addEventListener('click', function() {
+            this.classList.toggle('flipped');
+        });
+    });
+});
+
+function showLove() {
+    alert('I love you too! ❤️');
+}
