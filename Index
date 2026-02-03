@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>For You, Always</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>My Dearest Debby</h1>
+            <p>Every moment with you is a treasure</p>
+        </header>
+
+        <section class="hero">
+            <div class="heart">❤️</div>
+            <h2>You Are My Favorite Place to Return To</h2>
+            <p>Not perfect, just real, and deeply loved</p>
+        </section>
+
+        <section class="memories">
+            <h2>Moments I’ll Always Keep</h2>
+            <div class="memory-grid">
+                <div class="memory-card">
+                    <div class="front">
+                        <img src="placeholder1.jpg" alt="Memory 1">
+                    </div>
+                    <div class="back">
+                        <p>Our first date</p>
+                    </div>
+                </div>
+                <div class="memory-card">
+                    <div class="front">
+                        <img src="placeholder2.jpg" alt="Memory 2">
+                    </div>
+                    <div class="back">
+                        <p>That magical evening</p>
+                    </div>
+                </div>
+                <div class="memory-card">
+                    <div class="front">
+                        <img src="placeholder3.jpg" alt="Memory 3">
+                    </div>
+                    <div class="back">
+                        <p>Forever together</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="message">
+            <h2>Something I Need You to Know</h2>
+            <p>I may not always say things perfectly, but my intentions have always been sincere.
+                You bring calm to my chaos, warmth to my quiet days, and meaning to moments I never knew mattered.
+                Loving you feels natural like something I was always meant to do.</p>
+            <p>I don’t promise perfection. I promise effort, honesty, and choosing you every day.Are u willing to save us together?.</p>
+            <button class="love-button" onclick="showLove()">Yes, Always!</button>
+        </section>
+
+        <footer>
+            <p>With all my love, Ojan</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
